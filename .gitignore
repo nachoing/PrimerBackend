@@ -1,0 +1,5 @@
+.emv
+.emv.local
+.emv.development.local.emv.test.local
+.emv.production.local
+/node_modules
